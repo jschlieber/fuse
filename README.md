@@ -12,7 +12,7 @@ Fuse
 
 [![Build Status](https://secure.travis-ci.org/krisk/Fuse.png?branch=master)](http://travis-ci.org/krisk/Fuse)
 
-Fuse is a full JavaScript fuzzy-search implementation that searches accross the keys of every record in a list.
+Fuse is a full JavaScript fuzzy-search implementation that searches across the keys of every record in a list.
 
 - [Demo & usage](http://kiro.me/exp/fuse.html)
 - [Project page](http://kiro.me/projects/fuse.html)
